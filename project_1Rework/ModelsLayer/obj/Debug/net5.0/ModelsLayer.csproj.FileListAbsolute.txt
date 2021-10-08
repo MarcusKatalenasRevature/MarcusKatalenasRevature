@@ -1,0 +1,15 @@
+C:\Users\Bitazee\source\repos\08162021-dotnet-uta\MarcusKatalenasRevature\projects\project_1Rework\ModelsLayer\bin\Debug\net5.0\ModelsLayer.deps.json
+C:\Users\Bitazee\source\repos\08162021-dotnet-uta\MarcusKatalenasRevature\projects\project_1Rework\ModelsLayer\bin\Debug\net5.0\ModelsLayer.runtimeconfig.json
+C:\Users\Bitazee\source\repos\08162021-dotnet-uta\MarcusKatalenasRevature\projects\project_1Rework\ModelsLayer\bin\Debug\net5.0\ModelsLayer.runtimeconfig.dev.json
+C:\Users\Bitazee\source\repos\08162021-dotnet-uta\MarcusKatalenasRevature\projects\project_1Rework\ModelsLayer\bin\Debug\net5.0\ModelsLayer.dll
+C:\Users\Bitazee\source\repos\08162021-dotnet-uta\MarcusKatalenasRevature\projects\project_1Rework\ModelsLayer\bin\Debug\net5.0\ref\ModelsLayer.dll
+C:\Users\Bitazee\source\repos\08162021-dotnet-uta\MarcusKatalenasRevature\projects\project_1Rework\ModelsLayer\bin\Debug\net5.0\ModelsLayer.pdb
+C:\Users\Bitazee\source\repos\08162021-dotnet-uta\MarcusKatalenasRevature\projects\project_1Rework\ModelsLayer\obj\Debug\net5.0\ModelsLayer.csproj.AssemblyReference.cache
+C:\Users\Bitazee\source\repos\08162021-dotnet-uta\MarcusKatalenasRevature\projects\project_1Rework\ModelsLayer\obj\Debug\net5.0\ModelsLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bitazee\source\repos\08162021-dotnet-uta\MarcusKatalenasRevature\projects\project_1Rework\ModelsLayer\obj\Debug\net5.0\ModelsLayer.AssemblyInfoInputs.cache
+C:\Users\Bitazee\source\repos\08162021-dotnet-uta\MarcusKatalenasRevature\projects\project_1Rework\ModelsLayer\obj\Debug\net5.0\ModelsLayer.AssemblyInfo.cs
+C:\Users\Bitazee\source\repos\08162021-dotnet-uta\MarcusKatalenasRevature\projects\project_1Rework\ModelsLayer\obj\Debug\net5.0\ModelsLayer.csproj.CoreCompileInputs.cache
+C:\Users\Bitazee\source\repos\08162021-dotnet-uta\MarcusKatalenasRevature\projects\project_1Rework\ModelsLayer\obj\Debug\net5.0\ModelsLayer.dll
+C:\Users\Bitazee\source\repos\08162021-dotnet-uta\MarcusKatalenasRevature\projects\project_1Rework\ModelsLayer\obj\Debug\net5.0\ref\ModelsLayer.dll
+C:\Users\Bitazee\source\repos\08162021-dotnet-uta\MarcusKatalenasRevature\projects\project_1Rework\ModelsLayer\obj\Debug\net5.0\ModelsLayer.pdb
+C:\Users\Bitazee\source\repos\08162021-dotnet-uta\MarcusKatalenasRevature\projects\project_1Rework\ModelsLayer\obj\Debug\net5.0\ModelsLayer.genruntimeconfig.cache
